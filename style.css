@@ -229,3 +229,11 @@ padding-left:40px ;
     .card_image:hover{
         width: 500px;
     } */
+
+
+    @media only screen and (max-width: 600px) {
+        .hero_banner {
+         
+          background-color: red;
+        }
+      }
